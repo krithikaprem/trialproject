@@ -1,3 +1,5 @@
 puts "hello world"
 puts "my first code"
 puts "trial should work"
+puts "beginner in coding"
+puts "not fun"
